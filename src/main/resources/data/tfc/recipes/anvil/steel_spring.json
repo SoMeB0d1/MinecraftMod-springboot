@@ -1,0 +1,7 @@
+{
+  "type": "tfc:anvil",
+  "input": { "tag": "forge:ingots/steel" },
+  "result": { "item": "springboot:steel_spring", "count": 1 },
+  "tier": 3,
+  "rules": ["draw_last", "bend_second_last", "punch_third_last"]
+}
